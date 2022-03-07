@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+  }
+.border {
+    border-style: dotted;
+    background-color: rgb(127, 121, 133);
+  }
+.pair {
+    color: rgb(69, 69, 231);
+}
